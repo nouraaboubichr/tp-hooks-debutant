@@ -4,6 +4,7 @@
 
 ## Affichage de l’application React dans le navigateur
 
+<img width="1270" height="674" alt="1" src="im/Capture d'écran 2026-10-25 031058.png" />
 <img width="1270" height="674" alt="1" src="im/Capture d'écran 2026-10-25 031106.png" />
 
 
