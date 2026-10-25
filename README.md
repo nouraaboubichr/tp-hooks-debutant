@@ -9,4 +9,4 @@
 
 ## Démonstration du projet
 
-[▶️ Regarder la vidéo](https://drive.google.com/file/d/1irH6Vy8FyUZx0iKQ5lodsKDO7H0u3eZL/view?usp=sharing))
+[▶️ Regarder la vidéo](https://drive.google.com/file/d/1irH6Vy8FyUZx0iKQ5lodsKDO7H0u3eZL/view?usp=sharing)
